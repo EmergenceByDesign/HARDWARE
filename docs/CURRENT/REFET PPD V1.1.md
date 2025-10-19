@@ -1,7 +1,7 @@
 REFET Phenomenon Demonstrator (PPD)
 Revision 1.1
 Coaxed Quantum Effects in Classical Silicon
- Authorship: EergenceByDesign
+ Authorship: EmergenceByDesign
  License: Creative Commons CC-BY 4.0
  Publication Type: Open Preprint / Prior-Art Disclosure
  Date: 2025
@@ -159,6 +159,6 @@ Support theoretical linkage to Lambda-Irreducibility and TUFT/SEAL models as a v
 
 
 Authorship and License
-Prepared by: EergenceByDesign
+Prepared by: EmergenceByDesign
  License: Creative Commons CC-BY 4.0
- Citation: EergenceByDesign (2025), “REFET Phenomenon Demonstrator (PPD)”
+ Citation: EmergenceByDesign (2025), “REFET Phenomenon Demonstrator (PPD)”
